@@ -1,0 +1,44 @@
+[
+  {
+    "title": "Python for Everybody",
+    "difficulty": "Beginner",
+    "estimated_learning_time": "6 weeks",
+    "provider": "Coursera",
+    "focus_skills": ["Python", "Problem Solving"]
+  },
+  {
+    "title": "SQL for Data Analysis",
+    "difficulty": "Intermediate",
+    "estimated_learning_time": "4 weeks",
+    "provider": "Mode Analytics",
+    "focus_skills": ["SQL", "Data Analysis"]
+  },
+  {
+    "title": "Machine Learning Specialization",
+    "difficulty": "Intermediate",
+    "estimated_learning_time": "8 weeks",
+    "provider": "Coursera",
+    "focus_skills": ["Machine Learning", "Statistics", "Python"]
+  },
+  {
+    "title": "React - The Complete Guide",
+    "difficulty": "Intermediate",
+    "estimated_learning_time": "7 weeks",
+    "provider": "Udemy",
+    "focus_skills": ["React", "JavaScript", "Responsive Design"]
+  },
+  {
+    "title": "Product Management First Steps",
+    "difficulty": "Beginner",
+    "estimated_learning_time": "3 weeks",
+    "provider": "LinkedIn Learning",
+    "focus_skills": ["Roadmapping", "Stakeholder Management", "Market Research"]
+  },
+  {
+    "title": "Effective Communication for Professionals",
+    "difficulty": "Beginner",
+    "estimated_learning_time": "2 weeks",
+    "provider": "edX",
+    "focus_skills": ["Communication", "Presentation", "Leadership"]
+  }
+]

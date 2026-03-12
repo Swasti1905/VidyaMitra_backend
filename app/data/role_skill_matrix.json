@@ -1,0 +1,38 @@
+{
+  "Software Developer": {
+    "required_skills": ["Python", "JavaScript", "Git", "REST APIs", "SQL", "Data Structures", "Problem Solving"],
+    "certifications": ["Meta Front-End Developer", "AWS Certified Developer"],
+    "roadmap": ["Strengthen core programming", "Build API-driven projects", "Practice system design basics"],
+    "learning_topics": ["Backend development", "Version control workflows", "Testing fundamentals"]
+  },
+  "Data Scientist": {
+    "required_skills": ["Python", "Statistics", "Pandas", "Machine Learning", "SQL", "Data Visualization", "Communication"],
+    "certifications": ["IBM Data Science Professional Certificate", "TensorFlow Developer Certificate"],
+    "roadmap": ["Master data analysis", "Build ML models", "Practice communicating insights"],
+    "learning_topics": ["Probability and statistics", "Model evaluation", "Feature engineering"]
+  },
+  "Frontend Developer": {
+    "required_skills": ["HTML", "CSS", "JavaScript", "React", "Responsive Design", "Accessibility", "UI Thinking"],
+    "certifications": ["Meta Front-End Developer", "Google UX Design"],
+    "roadmap": ["Master semantic UI", "Build reusable components", "Improve performance and accessibility"],
+    "learning_topics": ["Component architecture", "State management", "Web performance"]
+  },
+  "Product Manager": {
+    "required_skills": ["Stakeholder Management", "Roadmapping", "Market Research", "Prioritization", "Communication", "Analytics", "Leadership"],
+    "certifications": ["Product School Product Management", "Google Project Management"],
+    "roadmap": ["Understand customer problems", "Learn product metrics", "Practice strategic planning"],
+    "learning_topics": ["Product discovery", "A/B testing", "Go-to-market strategy"]
+  },
+  "Data Analyst": {
+    "required_skills": ["SQL", "Excel", "Python", "Data Visualization", "Dashboarding", "Statistics", "Business Communication"],
+    "certifications": ["Google Data Analytics", "Microsoft Power BI Data Analyst"],
+    "roadmap": ["Clean and model data", "Create dashboards", "Translate trends into decisions"],
+    "learning_topics": ["Business intelligence", "Data storytelling", "Advanced SQL"]
+  },
+  "MBA Management Roles": {
+    "required_skills": ["Leadership", "Strategic Thinking", "Presentation", "Finance Basics", "Operations", "Communication", "Decision Making"],
+    "certifications": ["Google Project Management", "Certified ScrumMaster"],
+    "roadmap": ["Strengthen business fundamentals", "Lead cross-functional initiatives", "Improve executive communication"],
+    "learning_topics": ["Business strategy", "Team management", "Financial analysis"]
+  }
+}

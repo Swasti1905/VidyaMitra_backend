@@ -1,0 +1,1 @@
+"""VidyaMitra backend application package."""
